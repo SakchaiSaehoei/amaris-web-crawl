@@ -1,0 +1,28 @@
+* February 24, 2025
+
+
+# The Nuclear Bet: How Tech Giants Are Turning to Nuclear Energy to Power AI Growth
+![nuclear energy](https://amaris.com/wp-content/uploads/2025/02/AdobeStock_1144031289-1024x574.avif)
+Viewpoint by Adrien E., Global Account Manager and CoE Data & AI Solution Sales at Amaris Consulting.
+As AI continues to push the boundaries of what’s possible, one thing is becoming clear: it’s going to need a lot of power. Data centers, the engines driving AI development, are consuming more electricity than ever before, creating a pressing need for sustainable power solutions. In response, some of the world’s biggest tech companies, including Amazon, Google, and Microsoft, are turning to a surprising source: nuclear energy.
+This shift marks a significant move toward energy independence, with the potential to reshape both the tech industry and the global energy landscape. But what does it mean for the future of AI, sustainability, and the way we generate and consume power?
+## **Around the clock**
+Data centers are already responsible for around 1% of global electricity consumption, a figure that’s set to soar as AI-driven workloads continue to grow. The U.S. Department of Energy projects that global electricity consumption will rise by 75% by 2050, with much of this increase coming from the demand for computing power.
+While renewable energy sources like wind and solar are part of the solution, they come with their own set of challenges, particularly the unpredictability of weather. In contrast, nuclear power offers a reliable, carbon-free energy source that operates around the clock. For tech giants looking to meet the insatiable power needs of AI while keeping their environmental impact in check, nuclear energy presents a compelling option.
+## **3 approaches, same goal**
+Leading the charge in this nuclear energy shift, Amazon is investing in small modular reactors (SMRs), a next-generation technology that’s more flexible and cost-efficient than traditional nuclear plants. In collaboration with Energy Northwest, Amazon is developing four SMRs in Washington state. These reactors will have an initial capacity of 320 megawatts (MW), with the potential to expand to 960 MW. Additionally, Amazon has partnered with Dominion Energy to deploy an SMR near the North Anna nuclear plant in Virginia, adding another 300 MW to its energy portfolio.
+Meanwhile, Google is taking a different route, focusing on molten salt reactors through its partnership with Kairos Power, a startup at the forefront of this technology. Molten salt reactors use a liquid form of salt to absorb and transfer heat, making them a safer and more efficient alternative to traditional reactors. Google plans to deploy six to seven of these reactors by 2030, aiming for a total capacity of 500 MW. This investment supports Google’s ambitious goal of achieving carbon-free energy across its global operations by the same year.
+Microsoft, on the other hand, is turning to existing nuclear assets by working with Constellation Energy to revive a decommissioned reactor at Three Mile Island. This move not only ensures a steady supply of energy for Microsoft’s AI-driven cloud services, but also repurposes infrastructure that would otherwise remain idle.
+## **Power play**
+By investing in nuclear energy, tech giants are no longer just consumers of power—they’re positioning themselves as potential producers. This shift could have a significant impact on traditional energy markets, especially if these companies start selling surplus energy back to the grid. While this strategy strengthens energy security for tech firms, it also introduces the possibility of intense competition with established utilities, which may lead to changes in energy pricing and market dynamics.
+## **New challenges**
+By owning nuclear assets, these tech giants can take charge of their energy costs, providing long-term stability for their AI-driven operations. This level of control over their energy supply offers a competitive edge, but it also brings a set of complex challenges. From strict regulations and managing nuclear waste to addressing public concerns about safety, these companies must overcome significant hurdles to successfully integrate nuclear power into their operations.
+## **The big question**
+The shift towards nuclear power is a game changer for how tech giants approach energy. By combining nuclear with renewable sources, these companies aren’t just securing their energy future, they’re helping drive the broader move towards more sustainable energy solutions.
+These investments are more than just meeting the demands of AI and cloud computing; they’re reshaping the energy landscape. As tech companies take more control over their energy sources, they’re setting the stage for a future where energy independence is within reach.
+The big question now isn’t just how these companies will use nuclear energy, but how their actions will transform the global energy market for years to come.
+Explore how Amaris Consulting is driving innovation in the energy sector and advancing AI and cloud computing by visiting our Industry [page](https://amaris.com/industry/energy-resources-utilities/) and discovering the work we’re doing at our [Data & AI Center of Excellence](https://amaris.com/center-of-excellence/data-ai/).
+## Is nuclear energy the future of power, or just a temporary solution to a much larger challenge?
+###### Share Post:
+![Amaris Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+Amaris Consulting is your stepping stone to cross rivers of change, meet challenges, and achieve all your projects with success.

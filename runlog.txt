@@ -1,0 +1,9 @@
+=== run @ 2025-06-03T14:55:21
+in_dir          : D:\Amaris\output
+out_dir         : D:\Amaris\cleaned_output
+files processed : 234
+outliers        : 2
+header captured : True
+footer captured : True
+----------------------------------------
+
